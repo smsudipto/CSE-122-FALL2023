@@ -1,2 +1,7 @@
-# CSE-122-FALL2023
-This is aa OPP Lab Repository
+Name:Sudipto Mandal.
+
+ID:22235103081
+
+Intake:51
+
+Section:02
